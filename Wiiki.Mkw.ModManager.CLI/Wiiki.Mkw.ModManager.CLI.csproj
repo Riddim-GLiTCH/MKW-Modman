@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net8.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <Title>Mario Kart Wiiki CLI ModManager</Title>
+        <Description>A CLI build for the Wiiki ModManager. Should be able to run on any OS that also supports running .NET 8.</Description>
+        <Copyright>2024 (c) EnKdev, Riddim-Glitch</Copyright>
+        <PackageLicenseUrl>https://github.com/Riddim-GLiTCH/MKW-Modman/blob/main/LICENSE</PackageLicenseUrl>
+        <RepositoryUrl>https://github.com/Riddim-GLiTCH/MKW-Modman</RepositoryUrl>
+        <RepositoryType>git</RepositoryType>
+        <SignAssembly>true</SignAssembly>
+        <AssemblyOriginatorKeyFile>Wiiki.Mkw.ModManager.CLI.snk</AssemblyOriginatorKeyFile>
+    </PropertyGroup>
+
+</Project>
