@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>WinExe</OutputType>
+        <TargetFramework>net8.0-windows</TargetFramework>
+        <Nullable>enable</Nullable>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <UseWPF>true</UseWPF>
+        <Title>Mario Kart Wiiki ModManager</Title>
+        <Description>A Mod Manager for Mario Kart Wii that interacts with the Wiiki side of things</Description>
+        <Copyright>2024 (c) EnKdev, Riddim-Glitch</Copyright>
+        <PackageLicenseUrl>https://github.com/Riddim-GLiTCH/MKW-Modman/blob/main/LICENSE</PackageLicenseUrl>
+        <RepositoryUrl>https://github.com/Riddim-GLiTCH/MKW-Modman</RepositoryUrl>
+        <RepositoryType>git</RepositoryType>
+        <SignAssembly>true</SignAssembly>
+        <AssemblyOriginatorKeyFile>Wiiki.Mkw.ModManager.snk</AssemblyOriginatorKeyFile>
+    </PropertyGroup>
+
+</Project>
