@@ -2,9 +2,16 @@
 
 <p align="center"> An in-development mod manager for Mario Kart Wii</p>
 
+MKW-ModMan is a Mod Manager for Mario Kart Wii, that aims to streamline the act of downloading and installing mods from [The Custom Mario Kart Wiki](https://wiki.tockdom.com).
+
 > [!WARNING]
-> MKW-ModMan is a Mod Manager for Mario Kart Wii, that aims to streamline the act of downloading and installing mods from [The Custom Mario Kart Wiki](https://wiki.tockdom.com).
-> It is currently in its earliest stage of development, and is currently not functional.
+> This project is currently in its earliest stage of development, and is currently not functional.
+
+> Notice:
+>
+> Due to API limitatations, the ability to download mods directly from [The Custom Mario Kart Wiki](https://wiki.tockdom.com) will not be developed yet. However, a potential work-around is being considered.
+>
+> Furthermore, the this project can still serve as a graphical user interface to manage your mods. This part of the project will still be worked on.
 
 ----
 
